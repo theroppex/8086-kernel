@@ -1,2 +1,2 @@
 # 8086-kernel
-Simple time-sharing kernel form 8086 written as a part of Operating Systems class assignment.  
+Simple time-sharing kernel for 8086 written as a part of Operating Systems class assignment.  
